@@ -1,0 +1,6 @@
+C:\Projects\empower\oopexample2\bin\Debug\ConsoleApp2.exe.config
+C:\Projects\empower\oopexample2\bin\Debug\ConsoleApp2.exe
+C:\Projects\empower\oopexample2\bin\Debug\ConsoleApp2.pdb
+C:\Projects\empower\oopexample2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Projects\empower\oopexample2\obj\Debug\ConsoleApp2.exe
+C:\Projects\empower\oopexample2\obj\Debug\ConsoleApp2.pdb
